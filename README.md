@@ -7,7 +7,7 @@ I am currently pursuing my degree in Computer Science and have hands-on experien
 ---
 ## 🔧 Skills
 
-- **Languages:** C, C++, Python, C#, Bash
+- **Languages:** C, C++, Python, C#, Bash, Makefile
 - **Technologies:** Linux, Unix System Programming, Multi-Threading, Process Management, Network Programming
 - **Web Development:** C# ASP.NET Core
 - **Databases:** SQL (MySQL)
