@@ -22,4 +22,5 @@ Here are some of my repositories:
 - [**Job-executor-using-Threads**](https://github.com/KKalamari/Job-executor-using-Threads) *(C++)* - A job executor that utilizes multi-threading for efficient task management.
 - [**python_api**](https://github.com/KKalamari/python_api)  *(Python)* - A Python API project.
 - [**Berkeley-pac-man-project1** ](https://github.com/KKalamari/Berkeley-pac-man-project1) *(Python)* - Implementation of AI concepts from UC Berkeley's AI course
+- [**Face-with-phong-lighting**](https://github.com/KKalamari/Face-with-Phong-Lighting)*(c++)* - This OpenGL project implements Phong lighting with a dynamically moving light source (a sphere) orbiting around a 3D face model. The user can control the camera movement and adjust the light's speed, creating an interactive real-time rendering experience. 
 
